@@ -1,5 +1,5 @@
 # About Me:
-I'm Anna<br>I'm a junior developer with a strong passion for machine learning, data science, and backend development. I love tackling complex problems, optimizing algorithms, and diving deep into numerical methods, databases, and neural networks.
+I'm Anna a junior developer with a strong passion for machine learning, data science, and backend development. I love tackling complex problems, optimizing algorithms, and diving deep into numerical methods, databases, and neural networks.
 
 
 ## 🌐 Socials:
