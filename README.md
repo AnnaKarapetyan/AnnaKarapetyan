@@ -1,7 +1,3 @@
-# About Me:
-I'm Anna a junior developer with a strong passion for machine learning, data science, and backend development. I love tackling complex problems, optimizing algorithms, and diving deep into numerical methods, databases, and neural networks.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anna-karapetyan-82bab42b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:annakarapetyan20192004@gmail.com) 
 
